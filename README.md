@@ -1,6 +1,6 @@
 # yapsharp
 
-YapSharp is a simple started project. It's basically a TCP chat app that allows multiple clients on your machine send messages with each other in real time. It is divided into the **server** and the **client**.
+YapSharp is a simple starter project. It's basically a TCP chat app that allows multiple clients on your machine send messages with each other in real time. It is divided into the **server** and the **client**.
 
 ## Server
 
