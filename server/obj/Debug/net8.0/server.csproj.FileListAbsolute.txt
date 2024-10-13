@@ -1,0 +1,14 @@
+E:\codes\c#\yapsharp\server\bin\Debug\net8.0\server.exe
+E:\codes\c#\yapsharp\server\bin\Debug\net8.0\server.deps.json
+E:\codes\c#\yapsharp\server\bin\Debug\net8.0\server.runtimeconfig.json
+E:\codes\c#\yapsharp\server\bin\Debug\net8.0\server.dll
+E:\codes\c#\yapsharp\server\bin\Debug\net8.0\server.pdb
+E:\codes\c#\yapsharp\server\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+E:\codes\c#\yapsharp\server\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+E:\codes\c#\yapsharp\server\obj\Debug\net8.0\server.AssemblyInfo.cs
+E:\codes\c#\yapsharp\server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+E:\codes\c#\yapsharp\server\obj\Debug\net8.0\server.dll
+E:\codes\c#\yapsharp\server\obj\Debug\net8.0\refint\server.dll
+E:\codes\c#\yapsharp\server\obj\Debug\net8.0\server.pdb
+E:\codes\c#\yapsharp\server\obj\Debug\net8.0\server.genruntimeconfig.cache
+E:\codes\c#\yapsharp\server\obj\Debug\net8.0\ref\server.dll
